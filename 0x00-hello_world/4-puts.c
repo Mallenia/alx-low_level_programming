@@ -10,13 +10,10 @@
 int main(void)
 {
 	char Prog[52];
-	char Line[2];
 
 	strcpy(Prog, "\"Programming is like building a multilingual puzzle");
-	strcpy(Line, "\n");
 
 	puts(Prog);
-	puts(Line);
 
 	return (0);
 }
