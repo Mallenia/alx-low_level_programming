@@ -9,9 +9,9 @@
 
 int main(void)
 {
-	char Prog[52];
+	char Prog[54];
 
-	strcpy(Prog, "Programming is like building a multilingual puzzle\n");
+	strcpy(Prog, "\"Programming is like building a multilingual puzzle\n");
 
 	puts(Prog);
 
