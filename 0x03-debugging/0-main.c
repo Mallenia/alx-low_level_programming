@@ -3,7 +3,7 @@
 /**
  *main - A function that checks postitive_or_negative for 0
  *
- *Return: 0
+ *Return: 0 (Success)
  *
  */
 int main(void)
