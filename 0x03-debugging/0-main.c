@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- *main = A function that checks postitive_or_negative for 0
+ *main - A function that checks postitive_or_negative for 0
  *
  *Return: 0
  *
  */
-
 int main(void)
 {
 	int i;
