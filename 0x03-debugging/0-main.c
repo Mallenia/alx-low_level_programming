@@ -12,10 +12,7 @@ int main(void)
 	int i;
 
 	i = 0;
-
-	/* This statemenet checks if i is zero*/
-	if (i == 0)
-		printf("i is zero\n");
+	positive_or_negative(i);
 
 	return (0);
 }
