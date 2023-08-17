@@ -2,8 +2,6 @@
 
 /**
  * print_alphabet - Printout the 26 alphabet
- *
- * Return: 
  */
 
 void print_alphabet(void)
