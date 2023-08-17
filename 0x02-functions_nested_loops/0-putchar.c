@@ -1,17 +1,15 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- *
  * main - Prints putchar
  *
  * Return: 0 (Success)
- *
  */
 
 int main(void)
 {
 	printf("_putchar\n");
 
-	return 0;
+	return (0);
 
 }
