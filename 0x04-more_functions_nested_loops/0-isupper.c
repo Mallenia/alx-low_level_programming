@@ -3,13 +3,13 @@
 /**
  * _isupper - Prints 1 if the aphabet is upper case
  *and 0 otherwise
- *@c: The alphabet that is checked
+ *@alpha: The alphabet that is checked
  * Return: 1 if the alphabet is upper case
  */
 
-int _isupper(int c)
+int _isupper(int alpha)
 {
-	if (c >= 65 && c <= 90)
+	if (alpha >= 65 && alpha <= 90)
 	{
 		return (1);
 	}
