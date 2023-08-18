@@ -7,17 +7,16 @@
 
 void more_numbers(void)
 {
-	char index;
+	char Digit[20] = "01234567891011121314";
 	int mul;
+	int num;
 
 	for (mul = 0; mul <= 9; mul++)
 	{
-		for (index = '0'; index <= '9'; index++)
+		for (num = 0; num <= 20; num++)
 		{
-			_putchar(index);
+			_putchar(Digit[num]);
 		}
-
-		write(1, "1011121314", 10);
 
 		_putchar('\n');
 	}
