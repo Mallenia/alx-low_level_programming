@@ -7,7 +7,7 @@
 
 void more_numbers(void)
 {
-	char Digit[20] = "01234567891011121314";
+	char Index[20] = ;
 	int mul;
 	int num;
 
@@ -15,7 +15,7 @@ void more_numbers(void)
 	{
 		for (num = 0; num <= 20; num++)
 		{
-			_putchar(Digit[num]);
+			_putchar(Index[num]);
 		}
 
 		_putchar('\n');
