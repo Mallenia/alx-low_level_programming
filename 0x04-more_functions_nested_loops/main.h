@@ -1,4 +1,4 @@
 #include <stdio.h>
 
-int _isupper(int alpha);
+int _isupper(int c);
 int _putchar(char a);
